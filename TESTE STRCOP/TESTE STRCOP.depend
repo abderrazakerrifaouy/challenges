@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1695332424 source:c:\broje desayedaliya\teste strcop\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
